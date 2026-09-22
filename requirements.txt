@@ -1,0 +1,4 @@
+langgraph==1.2.11
+langchain-ollama==1.1.0
+pydantic==2.12.5
+pytest==8.4.2
